@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/server_consumer/pom.xml" />
         <option value="$PROJECT_DIR$/server_provide/pom.xml" />
         <option value="$PROJECT_DIR$/zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/yantai/pom.xml" />
       </list>
     </option>
   </component>
